@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Aditya 🚀
 
----
-
 I am a pre-final year **AI & ML Engineering** student 📚 with a strong passion for cutting-edge technologies! 🚀. I am a passionate student 💻 with a strong 
 interest in **Machine Learning 🤖, IoT 🌐, and Cloud ☁️**. I love working on innovative projects and constantly learning new technologies. 🚀  
 
