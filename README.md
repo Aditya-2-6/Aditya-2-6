@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Aditya 🚀
 
 ---
-I am a pre-final year **AI & ML Engineering** student 📚 with a strong passion for cutting-edge technologies! 🚀  
-I am a passionate student 💻 with a strong interest in **Machine Learning 🤖, IoT 🌐, and Cloud ☁️**. I love working on innovative projects and constantly learning new technologies. 🚀  
+
+I am a pre-final year **AI & ML Engineering** student 📚 with a strong passion for cutting-edge technologies! 🚀. I am a passionate student 💻 with a strong 
+interest in **Machine Learning 🤖, IoT 🌐, and Cloud ☁️**. I love working on innovative projects and constantly learning new technologies. 🚀  
+
 ---
 
 # 💻 Tech Stack:
@@ -12,9 +14,12 @@ I am a passionate student 💻 with a strong interest in **Machine Learning 🤖
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
+
 # 🔗 Connect with Me
 - 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/aditya-eeragond/) 💼  
 - 🐙 **GitHub Repo:** [Your GitHub Profile](https://github.com/Aditya-2-6?tab=repositories) 🚀  
-- ✉️ **Email:** aeeragond@gmail.com 📩  
+- ✉️ **Email:** aeeragond@gmail.com 📩
+
+---
 
 Let's connect and collaborate on amazing projects! 🚀💡  
